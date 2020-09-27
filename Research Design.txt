@@ -1,4 +1,4 @@
-Research area: Firmware Securite
+Research area: Firmware Security
 Problem: 
 for firmware reverse engineering there are many tools and instructions available. 
 For example you can download the firmware of an router and reverse engineer it to see the actual code.
