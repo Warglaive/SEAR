@@ -1,0 +1,18 @@
+Research area: Firmware Securite
+Problem: 
+for firmware reverse engineering there are many tools and instructions available. 
+For example you can download the firmware of an router and reverse engineer it to see the actual code.
+
+Research question:
+How to secure firmware against reverse engineering?
+
+Overall objective:
+Make reverse engineering of Firmware harder.
+
+
+Research question's answer:
+
+
+TIPS:
+1. Write simple ( ur little bro should understand ).
+2. Don't go into details (if details - explain them simple).

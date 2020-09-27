@@ -1,0 +1,8 @@
+Start writing design and report
+tips:
+write simple, explain the details
+1. Find interesting thing (security related: virueses, attacks, AI, Privacy*)
+2. Clear research question.
+3. How u gonna answer the question?
+4. Define scope 
+5. Keep list of sources ( links )
