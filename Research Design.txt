@@ -3,6 +3,9 @@ Problem:
 for firmware reverse engineering there are many tools and instructions available. 
 For example you can download the firmware of an router and reverse engineer it to see the actual code.
 
+Attackers reverse engineer firmware so they can find vulnarabilities, things that they can exploit to attack other elements of the eco system.
+Backdoor vulnarability as an example.
+
 Research question:
 How to secure firmware against reverse engineering?
 
