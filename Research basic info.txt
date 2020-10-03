@@ -19,3 +19,8 @@ Research question's answer:
 TIPS:
 1. Write simple ( ur little bro should understand ).
 2. Don't go into details (if details - explain them simple).
+
+Research Design TODOs:
+1. What type of research is the objective - Applied research
+2. What are the important elements/objects?
+	Firmware, Reverse Engineering(hacking of firmware), embedded devices
