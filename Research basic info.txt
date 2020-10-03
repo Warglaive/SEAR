@@ -20,7 +20,14 @@ TIPS:
 1. Write simple ( ur little bro should understand ).
 2. Don't go into details (if details - explain them simple).
 
-Research Design TODOs:
+Completed TODOs:
 1. What type of research is the objective - Applied research
 2. What are the important elements/objects?
-	Firmware, Reverse Engineering(hacking of firmware), embedded devices
+	Firmware, Reverse Engineering(hacking of firmware), embedded devices.
+
+Research Design TODOs:	
+3. How is Firmware being reverse engineered?
+4. How to block/patch/ some reverse engineering techniques?
+	
+Used literature:
+https://www.mdpi.com/2076-3417/10/11/4015/htm
