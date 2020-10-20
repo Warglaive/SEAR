@@ -15,3 +15,20 @@ Any other ways for improving security?
 3.1 How much harder is now to penetrate firmware's code?
 3.2 Did the number of reverse engineered/penetrated devices decrease?
 3.3 Do the proposed solutions worth the effort for the achieved result?
+
+
+What is Reseach design?
+RD is the general plan of how you will answer your research questions.
+Part 1 of Reseach Design.
+The plan should state clearly the following issues:
+	Purpose of the study.
+	The strategies.
+	The time time dimensions.
+	The research environment.
+	Unit of analysis.
+	Sampling design*.
+	Data collection method*.
+	Measurement*.
+	Data Analysis*.
+Part 2 => Methodology
+	
