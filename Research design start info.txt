@@ -31,4 +31,5 @@ The plan should state clearly the following issues:
 	Measurement*.
 	Data Analysis*.
 Part 2 => Methodology
-	
+Non-empirical research approach
+Qualitative research
