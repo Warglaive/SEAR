@@ -33,3 +33,12 @@ The plan should state clearly the following issues:
 Part 2 => Methodology
 Non-empirical research approach
 Qualitative research
+
+
+
+How to create a research design
+The type of data you need.
+The location and timescale of the research.
+The participants and sources.
+The variables and hypotheses (if relevant)
+The methods for collecting and analyzing data.
