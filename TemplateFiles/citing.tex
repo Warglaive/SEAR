@@ -1,0 +1,67 @@
+\documentclass{report}
+\usepackage{graphicx}
+\usepackage[margin=1.5in]{geometry} 
+\usepackage[utf8]{inputenc} 
+\usepackage[english]{babel}  
+\usepackage[backend=bibtex,style=authoryear,bibstyle=authoryear,
+sorting=nyt,firstinits=true]{biblatex}
+\setlength\parindent{0pt}
+
+%this attaches your bib-file, your bibliography (must be in the same folder)
+\addbibresource{sample.bib} 
+
+\title{Citing and referencing with LaTeX}
+\author{Author Name}
+\date {30/10/2019}
+
+
+\begin{document}
+\maketitle
+
+This is a sentence using the \texttt{cite} command~\cite{latexcompanion}. You shouldn't use this command.\\
+
+This is a sentence using the \texttt{parencite} command~\parencite{latexcompanion}. You use it when you state something and provide the reference at the end of the sentence.\\
+
+This is a sentence using the \texttt{textcite} command~\textcite{latexcompanion}. You use it when you want to name the authors as part of your sentence, like so:
+In the early 90's,~\textcite{latexcompanion} developed a new framework for something.\\
+	
+This is a sentence that includes a chapter of a resource, by typing\newline 
+\texttt{textcite[chapter 4]\{einstein\}}, like so:~\textcite[Chapter 4]{einstein}, OR:\newline\texttt{parencite[chapter 4]\{einstein\}}, like so:~\parencite[Chapter 4]{einstein}.\\
+	
+This sentence uses a website source with \texttt{textcite} that has no year given:\newline~\textcite{Stormstout}.	\\
+
+This sentence uses a website source that has a date~\parencite{WinNT}.\\
+
+Here begineth a quote:
+\begin{quote}
+	Pandaria, her hills of gold\newline in dark and mournful times of old\newline did once a hopeless horror hold\newline when from her sacred veil did spring\newline with storm and flash a monstrous thing\newline his name: Lei Shen, the thunderking
+\end{quote}~\parencite{Stormstout}\\
+
+\begin{center}
+\begin{table}[!h]		
+\begin{tabular}{l|l|r|r}
+	Date & Class & Content & comments\\ \hline
+	Today & PRC1 & Proeftentamen & Will be difficult\\
+	Tomorrow & PRJ1 & Workshops & Docker \& nav. diagram\\
+\end{tabular}
+\caption{Class structure}
+\label{table:classes}
+\end{table}
+\end{center}
+
+\newpage
+Here I write some new text and I am referring to my table which is called Table~\ref{table:classes}. And now I am referring to Figure~\ref{fig:panda}.\\
+
+Pandaria is the expansion that took WoW lore to new, different heights. It was the first expansion in which the developers were brave enough to see beyond the old trope of 'orcs vs humans' and addressed elements of the lore that related to emotions, belonging and harmony. The central theme of the expansion is how the focus on war and hate of the opposing faction cause the 'Shas', the manifestation of bad emotions, to grow and to take over someone if they hate, fear or envy too much. The expansion follows players as they venture across the beautiful island (which is, in fact, a turtle!) searching for inner peace. I hope you have not read this far, because this is just meant to be some dummy text to show you how citing and referencing in LaTeX works.
+
+\begin{figure}
+	\includegraphics[width=1\linewidth]{MoPimg}
+	\caption{Artistic depiction of a Pandaren monk}
+	\label{fig:panda}
+\end{figure}
+
+
+\printbibliography[title=References] %name your bibliography here
+\end{document}
+
+
