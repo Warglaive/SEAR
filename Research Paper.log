@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  23 OCT 2020 19:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  23 OCT 2020 19:58
 entering extended mode
 **"./Research Paper.tex"
 ("Research Paper.tex"
@@ -416,25 +416,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
  [1
 
-{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [1] [1] [2] ("R
-esearch Paper.aux") ) 
+{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("Research Pape
+r.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `"Research Paper.toc"'.
+
+ [1
+
+] [1] [1] [2]
+("Research Paper.aux") ) 
 Here is how much of TeX's memory you used:
- 12123 strings out of 480790
- 249219 string characters out of 2907055
- 466886 words of memory out of 3000000
- 27920 multiletter control sequences out of 15000+200000
- 536928 words of font info for 39 fonts, out of 3000000 for 9000
+ 12132 strings out of 480790
+ 249356 string characters out of 2907055
+ 465886 words of memory out of 3000000
+ 27926 multiletter control sequences out of 15000+200000
+ 537534 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,83p,699b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\tcrm1000.pk><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Research Paper.pdf" (4 pages, 80073 bytes).
+ 68i,6n,83p,699b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\tcrm1000.pk><D:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Research Paper.pdf" (5 pages, 82270 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
