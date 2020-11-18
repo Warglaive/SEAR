@@ -1,18 +1,10 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{ii}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Research Design}{ii}%
+\contentsline {section}{\numberline {1.1}Research Design}{1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Purpose of the study}{ii}%
+\contentsline {subsection}{\numberline {1.1.1}Purpose of the study}{1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Data types}{iii}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Methods of data collection and analysis}{iii}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Strategies}{iii}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Hypothesis}{iii}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}References}{iv}%
+\contentsline {chapter}{\numberline {2}References}{2}%
