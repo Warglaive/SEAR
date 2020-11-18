@@ -33,3 +33,51 @@ Research Design TODOs:
 	
 Used literature:
 https://www.mdpi.com/2076-3417/10/11/4015/htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{enumerate}
+	\item The first thing is to understand how is firmware being reverse engineered? 
+ 	\begin{itemize}
+ 	\item What tools an techniques are used? 
+ 	\item How does those tools work, what algorithms they execute? 
+ 	\item Also the result is very important, what holes are found? 
+ 	\item How dangerous are those they? 
+ 	\item Can those holes be used to help access other parts of an software eco-system?
+ 	\end{itemize}
+
+	\item Simple ways to enhance firmware security (if any):
+	\begin{itemize}
+	\item Are there any software solutions to patch known vulnerabilities?
+	\item Are there any hardware solutions to patch known vulnerabilities?
+	\item How to implement those solutions?
+	\item Any other ways for improving security?
+	\end{itemize}
+
+\item Applied solutions result check:
+\begin{itemize}
+\item Does the applied software solution work?
+\item Does it creates any other issues?
+\item Does the applied hardware solutions work?
+\item Do they create any other issues?
+\item How much harder is now to penetrate firmware's code after applying the discovered solutions?
+\item Does the number of reverse engineered and penetrated devices decrease after applying the discovered solutions??
+\item Does the proposed solutions worth the effort for the achieved result?
+\end{itemize}
+\end{enumerate}
