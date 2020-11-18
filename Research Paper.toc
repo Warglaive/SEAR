@@ -5,16 +5,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Research Design}{ii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Purpose of the study}{ii}%
+\contentsline {subsection}{\numberline {1.1.1}Purpose of the study}{ii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Data types}{iii}%
+\contentsline {subsection}{\numberline {1.1.2}Data types}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Methods of data collection and analysis}{iii}%
+\contentsline {section}{\numberline {1.2}Methods of data collection and analysis}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Sources}{iii}%
+\contentsline {subsection}{\numberline {1.2.1}Strategies}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.4}Strategies}{iii}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.5}Hypothesis}{iii}%
+\contentsline {subsection}{\numberline {1.2.2}Hypothesis}{iii}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}References}{iv}%

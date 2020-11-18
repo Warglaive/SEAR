@@ -13,8 +13,10 @@ Overall objective:
 Make reverse engineering of Firmware harder.
 
 
-Research question's answer:
-
+Research question possible answers:
+obfuscation
+external key for firmware 
+firmware running on virtual machine 
 
 TIPS:
 1. Write simple ( ur little bro should understand ).
