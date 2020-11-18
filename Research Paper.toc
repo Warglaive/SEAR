@@ -1,20 +1,20 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Introduction}{1}%
+\contentsline {chapter}{\numberline {1}Introduction}{ii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.2}Sources}{1}%
+\contentsline {section}{\numberline {1.1}Research Design}{ii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.3}Research Design}{1}%
+\contentsline {subsection}{\numberline {1.1.1}Purpose of the study}{ii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.1}Purpose of the study}{1}%
+\contentsline {subsection}{\numberline {1.1.2}Data types}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.2}Data types}{2}%
+\contentsline {subsection}{\numberline {1.1.3}Methods of data collection and analysis}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.3}Methods of data collection and analysis}{2}%
+\contentsline {subsection}{\numberline {1.1.4}Sources}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.4}Sources}{2}%
+\contentsline {subsection}{\numberline {1.1.5}Strategies}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.5}Strategies}{2}%
+\contentsline {subsection}{\numberline {1.1.6}Hypothesis}{iii}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {0.3.6}Hypothesis}{2}%
+\contentsline {chapter}{\numberline {2}References}{iv}%

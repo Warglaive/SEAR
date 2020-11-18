@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  18 NOV 2020 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  18 NOV 2020 14:47
 entering extended mode
 **"./Research Paper.tex"
 ("Research Paper.tex"
@@ -680,7 +680,10 @@ File: biblatex.cfg
 Package biblatex Warning: 'firstinits' option is deprecated.
 (biblatex)                Please use 'giveninits' instead.
 
-)
+) ("D:\Program Files\MiKTeX\tex/latex/comment\comment.sty"
+\CommentStream=\write5
+
+Excluding comment 'comment')
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
@@ -690,7 +693,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 18.
+(biblatex)                Setting 'uniquename=init' on input line 20.
 
 ("D:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
@@ -700,20 +703,20 @@ File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 ("Research Paper.aux")
 \openout1 = `"Research Paper.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 ("D:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -730,19 +733,8 @@ LaTeX Font Info:    ... okay on input line 18.
 \everyMPtoPDFconversion=\toks34
 ) ("D:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-("D:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty"
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-("D:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -796,56 +788,56 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Research Paper".bbl' not found.
 
 No file "Research Paper".bbl.
-Package biblatex Info: Reference section=0 on input line 18.
-Package biblatex Info: Reference segment=0 on input line 18.
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 22.
 [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 ("Research Paper.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1.
+(Font)              <5> on input line 6.
 )
-\tf@toc=\write5
-\openout5 = `"Research Paper.toc"'.
+\tf@toc=\write6
+\openout6 = `"Research Paper.toc"'.
 
- [1
+ Excluding 'comment' comment. [1
 
-] [1] [1] [2] ("Research Paper.aux")
+]
+Chapter 1.
+[2
 
-LaTeX Warning: There were undefined references.
+] [3]
+Chapter 2.
+[4
 
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                "Research Paper"
-(biblatex)                and rerun LaTeX afterwards.
-
+] ("Research Paper.aux")
 Package logreq Info: Writing requests to '"Research Paper".run.xml'.
 \openout1 = `"Research Paper.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
  20582 strings out of 480790
- 405080 string characters out of 2907055
- 1017286 words of memory out of 3000000
- 36262 multiletter control sequences out of 15000+200000
- 537534 words of font info for 41 fonts, out of 3000000 for 9000
+ 404805 string characters out of 2907055
+ 1015228 words of memory out of 3000000
+ 36267 multiletter control sequences out of 15000+200000
+ 538140 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,83p,832b,1606s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,83p,827b,1667s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb>
-Output written on "Research Paper.pdf" (5 pages, 84675 bytes).
+Output written on "Research Paper.pdf" (5 pages, 85948 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
