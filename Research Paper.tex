@@ -8,22 +8,24 @@
 \usepackage[backend=bibtex,style=authoryear,bibstyle=authoryear,
 sorting=nyt,firstinits=true]{biblatex}
 \usepackage{comment}
-
+\pagenumbering{arabic}
 \setlength\parindent{0pt}
+
+\pagenumbering{roman}
+\begin{document}
 % Title Page
 \title{Research in " How to increase firmware security? " }
 \author{Svetoslav Stoyanov \\
 	Software Engineering \\
 	Fontys Venlo Hogeschool}
 
-
-\begin{document}\pagenumbering{roman}
-
 \maketitle
+
 \tableofcontents
 %body
 \chapter{Introduction}
-\section{Research Design} \pagenumbering{arabic}
+\section{Research Design}
+\pagenumbering{arabic}
 The conducted research is mainly about firmware security but the topic of embedded devices will also be mentioned because the two work together. In general, most devices with firmware are relatively easy to reverse engineer by hackers who want to find vulnerabilities that they can exploit in order to attack different parts of an eco-system.
 
 
