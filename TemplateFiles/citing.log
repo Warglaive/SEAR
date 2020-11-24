@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.4)  24 NOV 2020 14:14
 entering extended mode
-**./report_template_singleFile.tex
-(report_template_singleFile.tex
+**./citing.tex
+(citing.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18>
 (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -44,45 +44,46 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
-) (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+) (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen137
-\ar@mcellbox=\box45
-\extrarowheight=\dimen138
-\NC@list=\toks16
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box46
-)
-\TX@col@width=\dimen139
-\TX@old@table=\dimen140
-\TX@old@col=\dimen141
-\TX@target=\dimen142
-\TX@delta=\dimen143
-\TX@cols=\count176
-\TX@ftn=\toks17
-)
+(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks16
+
+(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
 (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2020/06/10 3.45 The Babel package
 
 (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2020/06/10 3.45 Babel common definitions
-\babel@savecnt=\count177
-\U@D=\dimen144
+\babel@savecnt=\count179
+\U@D=\dimen145
 \l@babelnohyphens=\language79
 
 (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count178
+\bbl@dirlevel=\count180
 
 *************************************
 * Local config file bblopts.cfg used
@@ -99,10 +100,7 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
-)) (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+)) (C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/generic/ift
+(C:\Users\Jan\AppData\Local\Programs
