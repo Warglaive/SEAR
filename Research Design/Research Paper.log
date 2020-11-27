@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< refs/remotes/upstream/master:Research Paper.log
 <<<<<<< refs/remotes/upstream/master
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  27 NOV 2020 18:33
@@ -7,6 +8,9 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded forma
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.4)  24 NOV 2020 13:56
 >>>>>>> Tidy:Research Design/Research Paper.log
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.4)  24 NOV 2020 13:56
+>>>>>>> master
 entering extended mode
 **"./Research Paper.tex"
 ("Research Paper.tex"
@@ -426,6 +430,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks29
 )
+<<<<<<< HEAD
 <<<<<<< refs/remotes/upstream/master
 ("D:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -857,10 +862,17 @@ de.def
 >>>>>>> Added  some changes
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count410
+=======
+(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmo
+de.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count268
+>>>>>>> master
 \l__pdf_internal_box=\box56
 ) ("Research Paper.aux")
 \openout1 = `"Research Paper.aux"'.
 
+<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
@@ -973,6 +985,28 @@ LaTeX Info: Redefining \nameref on input line 16.
 \openout6 = `"Research Paper.out"'.
 
 =======
+=======
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(C:\Users\Jan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen189
+\scratchbox=\box57
+>>>>>>> master
 \nofMPsegments=\count270
 \nofMParguments=\count271
 \everyMPshowfont=\toks30
@@ -988,6 +1022,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
+<<<<<<< HEAD
 >>>>>>> Added  some changes
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 24.
@@ -995,11 +1030,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 24.
+=======
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+>>>>>>> master
  [1
 
 {C:/Users/Jan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("Research Paper.
 toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
+<<<<<<< HEAD
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 6.
@@ -1060,6 +1104,20 @@ eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX/fonts/type
 onts/cm/cmr17.pfb>
 Output written on "Research Paper.pdf" (4 pages, 87365 bytes).
 =======
+=======
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `"Research Paper.toc"'.
+
+ [1
+
+] [1] [1] [2]
+("Research Paper.aux") ) 
+Here is how much of TeX's memory you used:
+>>>>>>> master
  12132 strings out of 480790
  253408 string characters out of 2898239
  465886 words of memory out of 3000000
@@ -1074,6 +1132,7 @@ fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jan/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jan/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Jan/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<<<<<<< HEAD
 <<<<<<< refs/remotes/upstream/master:Research Paper.log
 Output written on "Research Paper.pdf" (5 pages, 82422 bytes).
 >>>>>>> Added  some changes
@@ -1084,4 +1143,11 @@ PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  141 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on "Research Paper.pdf" (5 pages, 82423 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> master
 

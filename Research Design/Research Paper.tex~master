@@ -1,0 +1,78 @@
+\documentclass[]{report}
+\usepackage{todonotes}
+\usepackage{enumerate}
+
+% Title Page
+\title{Research in Firmware Security}
+\author{Svetoslav Stoyanov}
+
+
+\begin{document}
+\maketitle
+\tableofcontents
+\begin{abstract}
+	In recent years embedded devices have become very popular in many countries worldwide, they are often used in households, factories, and even in infrastructure objects. Their usage is predicted to increase steadily in the next decades. Our focus is that all embedded devices run on Firmware, which is basically computer software that is meant to work with specific hardware. The Firmware is not as secure as we would like it to be, there are many ways of hacking (reverse engineering) it so that one (the hacker) can find how exactly it operates and if there are any holes that can be exploited for benefit or used to harm either the users or the creators of the firmware.
+\end{abstract}
+\section{Introduction}
+The research we are conducting is about firmware security mainly but we will touch on the topic of embedded devices also because the two work together. In general, most devices with firmware are relatively easy to reverse engineer by hackers who want to find vulnerabilities that they can exploit to attack different parts of the eco-system. Therefore the goal of this research is to find a way to increase firmware security.
+\section{Sources}
+\begin{itemize}
+	\item https://www.mdpi.com/2076-3417/10/11/4015/htm
+	\item https://link-springer-com.fontys.idm.oclc.org/chapter/10.1007%2F978-1-4842-4300-8_7
+\end{itemize}
+
+
+\section{Research Design}
+\subsection{Purpose of the study} 
+The goal of the study is to find out how exactly is firmware being reverse engineered in order to find new protection methods against reverse engineering.
+\begin{enumerate}
+	\item The first thing is to understand how is firmware being reverse engineered? 
+ 	\begin{itemize}
+ 	\item What tools an techniques are used? 
+ 	\item How does those tools work, what algorithms they execute? 
+ 	\item Also the result is very important, what holes are found? 
+ 	\item How dangerous are those they? 
+ 	\item Can those holes be used to help access other parts of an software eco-system?
+ 	\end{itemize}
+
+	\item Simple ways to enhance firmware security (if any):
+	\begin{itemize}
+	\item Are there any software solutions to patch known vulnerabilities?
+	\item Are there any hardware solutions to patch known vulnerabilities?
+	\item How to implement those solutions?
+	\item Any other ways for improving security?
+	\end{itemize}
+
+\item Applied solutions result check:
+\begin{itemize}
+\item Does the applied software solution work?
+\item Does it creates any other issues?
+\item Does the applied hardware solutions work?
+\item Do they create any other issues?
+\item How much harder is now to penetrate firmware's code after applying the discovered solutions?
+\item Does the number of reverse engineered and penetrated devices decrease after applying the discovered solutions??
+\item Does the proposed solutions worth the effort for the achieved result?
+\end{itemize}
+\end{enumerate}
+\subsection{Data types}
+The collected data can be both qualitative and quantitative even though, we mainly rely on qualitative data.
+Quantitative data is only used to compare numbers and statistics and derive results in numeric or other forms.
+\begin{itemize}
+	\item Observation Data
+	\item Derived/Compiled Data
+\end{itemize}
+\subsection{Methods of data collection and analysis}
+\begin{enumerate}
+	\item Pick the most suitable and proven literature about the subject.
+	\item Find cyber security experts published opinions.
+	\item Read papers about disclosed reverse engineering of embedded devices cases.
+	\item Find existing solutions with potential of improvement.
+\end{enumerate}
+\subsection{Sources}
+The sources of information can be books(any type), websites, other research papers and articles but they must be authentic and with proven validity.
+\subsection{Strategies}
+The strategy of how this research must be conducted is to seek answers to the questions mentioned in "Purpose of the study" subsection. The questions shall be answered by reading previous researches on very close to this subjects.
+We will try to collect material proving that there are ways to improve security in firmware and to restrict or block reverse engineering of embedded devices. That evidence should not have been determined previously in order to be valid for this research.
+\subsection{Hypothesis}
+Providing even a minor solution regarding increase security for reverse engineering of embedded devices and their firmware, may result in rapid decrease in exploits of embedded devices therefore companies shall spend less on security and more on functionality.
+\end{document}
