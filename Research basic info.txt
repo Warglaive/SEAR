@@ -34,7 +34,11 @@ Research Design TODOs:
 Used literature:
 https://www.mdpi.com/2076-3417/10/11/4015/htm
 
+Measures against dissambly of binarys
+https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/kruegel/kruegel_html/disassemble.html
 
+Book about Firmware reverse engineering
+https://link-springer-com.fontys.idm.oclc.org/chapter/10.1007%2F978-1-4842-4300-8_7
 
 
 
