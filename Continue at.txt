@@ -1,7 +1,7 @@
 https://connect.fontys.nl/instituten/fhtenl_studies/studies/INF/SEAR/StudyMaterial/SEAR_AR_06_WritingAndReferencing.pdf
 Chapter: 1 Introduction
 • Provide the reader with everything they need to
-know to understandwhat you are doing and why
+know to understand what you are doing and why
 • Length: max 3 pages
 • Theoretical background (literature review)
 • Why the work is important
@@ -11,3 +11,6 @@ know to understandwhat you are doing and why
 https://patents.google.com/patent/US9392017B2/en
 http://s3.eurecom.fr/docs/bh13us_zaddach.pdf
 https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=embedded+devices+hacking+methods&btnG=
+1. What is firmware and embedded devices.
+2. What damage have been done so far?
+3. How and if those attacks/damages could be prevented?
