@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  13 DEC 2020 14:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  13 DEC 2020 18:25
 entering extended mode
 **"./Research Paper.tex"
 ("Research Paper.tex"
@@ -596,7 +596,7 @@ Package logreq Info: Writing requests to '"Research Paper".run.xml'.
 Here is how much of TeX's memory you used:
  11934 strings out of 480790
  219066 string characters out of 2907055
- 777481 words of memory out of 3000000
+ 778481 words of memory out of 3000000
  27820 multiletter control sequences out of 15000+200000
  538109 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -607,7 +607,7 @@ Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr17.pfb><D:/Program Files/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb>
-Output written on "Research Paper.pdf" (7 pages, 79852 bytes).
+Output written on "Research Paper.pdf" (7 pages, 81808 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

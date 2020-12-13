@@ -5,6 +5,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Methods}{2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Results}{2}%
+\contentsline {section}{\numberline {3}Results}{3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Discussion}{3}%
