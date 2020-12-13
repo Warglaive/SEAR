@@ -15,6 +15,7 @@
 \setlength\parindent{0pt}%include this so that your paragraphs don't indent automatically
 \addbibresource{report.bib} %this attaches your bib-file, your bibliography (must be in the same folder)
 \usepackage[compact]{titlesec}%include title formatting package
+\usepackage{soul}
 
 % Title Page
 \title{Applied Research in Firmware security of embedded devices}
@@ -46,6 +47,7 @@
 	
 \section{Introduction}
 
+\hl{test
 The research we are conducting is about firmware security mainly but we will touch on the topic of embedded devices also because the two work together. In general, most devices with firmware are relatively easy to reverse engineer by hackers who want to find vulnerabilities that they can exploit to attack different parts of the software eco-system. Therefore the goal of this research is to find a way to increase firmware security.
 
 In recent years embedded devices have become very popular in many countries worldwide, they are often used in households, factories, and even in infrastructure objects. Their usage is predicted to increase steadily in the next decades. The firmware used in all embedded devices is basically computer software that is meant to work with specific hardware in order to execute one or a few very concrete functions. The Firmware is not as secure as we would like it to be, there are many ways of hacking (breaching) it so that one (the hacker) can find how exactly it operates and if there are any holes that can be exploited for benefit or used to harm either the users or the creators of the firmware. Even though there are many ways of hacking an embedded device, the focus of this research paper is mainly on binary reverse engineering in a firmware context. Reverse engineering is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object. The point of reverse engineering a device is to reach the firmware.
@@ -57,10 +59,17 @@ The physical objects containing firmware and connected to a network are describe
 //IOT Detailed explanation
 As mentioned before, the usage of embedded devices in households, factories, infrastructure objects is increasing and is 
 
-
 //Why this is important but (IOT, machines in factorys etc.) it is included. More details and make sure the reader is aware of the importance of the security. Because it can affect everything.
+}
 
+Research question
+How does the attacker gain access to the code from the firmware, inside an embeded device?
 
+Scope
+
+Technical background
+Firmware
+Binary files (Filesystem)
 
 \begin{itemize}
 	\item Provide the reader with everything they need to know to understand what you are doing and why
@@ -86,16 +95,13 @@ As mentioned before, the usage of embedded devices in households, factories, inf
 We should primarily focus on experiments and research papers as material. Because these two sources give us a deep understanding of the underlying structure and the causes of the problem. Every paper you read should be logged on one of the following pages. To prove our research we maybe provide interviews.
 
 \section{Results}
+
 Topics:
 1. Reverse engineering in general introduction 
 	Half a page or a page about it in general and methods against it
 	
-2. Differences in reverse engineering between java c++ and binarys
-	Maybe own chapter or just half a page I dont know
-	Why methods applied for java or c++ cant be applied for binarys
-	
 3. Reverse engineering of binaries automated and non automated (Manual and binwalk)
-	This is used as an introduction into binary reverse engineering
+	This is used as an introduction into firmware reverse engineering.Firmware extraction is a good example.
 
 4. Methods against reverse engineering binarys
 	Explain a list of methods to prevent reverse engineering.
