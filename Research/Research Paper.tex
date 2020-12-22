@@ -86,7 +86,7 @@ data structure and protocols also make content protection more complex.
 For the sake of this research two methods of reverse engineering embedded device with the goal of extracting its firmware in a form of binary file will be mentioned. The first method is manual and requires several tools and manual file system inspection performed by a person, while the second method is almost entirely automated and requires only one software which does all the work and presents results.
 
 On the other side there are several ways of protecting binaries, but again only two will be used in this research. First one is "Binary Code Packing".
-Abstract—Packing (or executable compression) is considered as
+"Binary Code Packing" or Abstract—Packing (or executable compression) is considered as
 one of the most effective anti-reverse engineering methods in
 the Microsoft Windows environment. Even though many
 reversing attacks are widely conducted in the Linux-based
@@ -109,8 +109,9 @@ time, and power consumption. Our analysis results show
 that the Secure UPX performs better than AES-encryption
 packing in terms of the code size, execution time, and power
 consumption.(M. Kim et al, 2010)
-
-
+						
+The other method is named "Defending Embedded Systems with SoftwareSymbiotes".
+A large number of embedded devices on the internet, such asrouters and VOIP phones, are typically ripe for exploitation. Little to nodefensive technology, such as AV scanners or IDS’s, are available to pro-tect these devices. We propose a host-based defense mechanism, which wecall Symbiotic Embedded Machines (SEM), that is speciﬁcally designedto inject intrusion detection functionality into the ﬁrmware of the device.A SEM or simply the Symbiote, may be injected into deployed legacyembedded systems with no disruption to the operation of the device. ASymbiote is a code structure embedded in situ into the ﬁrmware of anembedded system. The Symbiote can tightly co-exist with arbitrary hostexecutables in a mutually defensive arrangement, sharing computationalresources with its host while simultaneously protecting the host againstexploitation and unauthorized modiﬁcation. The Symbiote is stealthilyembedded in a randomized fashion within an arbitrary body of ﬁrmwareto protect itself from removal. We demonstrate the operation of a genericwhitelist-based rootkit detector Symbiote injected in situ into Cisco IOSwith negligible performance penalty and without impacting the routersfunctionality. We present the performance overhead of a Symbiote onphysical Cisco router hardware. A MIPS implementation of the Sym-biote was ported to ARM and injected into a Linux 2.4 kernel, allowingthe Symbiote to operate within Android and other mobile computingdevices. The use of Symbiotes represents a practical and eﬀective protec-tion mechanism for a wide range of devices, especially widely deployed,unprotected, legacy embedded devices.(Cui, Ang and Stolfo, Salvatore, 2011)
 
 //2. Methods against reverse engineering binaries
 //2.1: Binary Code Packing
