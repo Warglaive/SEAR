@@ -92,6 +92,23 @@ the Microsoft Windows environment. Even though many
 reversing attacks are widely conducted in the Linux-based
 embedded system there is no widely used secure binary code
 packing tools for Linux. (M. Kim et al, 2010)
+This paper presents two secure
+packing methods that use AES encryption and the UPX packer
+to protect the intellectual property (IP) of software from
+reverse engineering attacks on Linux-based embedded system.
+We call these methods: secure UPX and AES-encryption
+packing. Since the original UPX system is designed not for
+software protection but for code compression, we present two
+anti-debugging methods in the unpacking module of the secure
+UPX to detect or abort reverse engineering attacks.
+Furthermore, since embedded systems are highly resource
+constrained, minimizing unpacking overhead is important.
+Therefore, we analyze the performance of the two packing
+methods from the perspective of: code size, execution
+time, and power consumption. Our analysis results show
+that the Secure UPX performs better than AES-encryption
+packing in terms of the code size, execution time, and power
+consumption.(M. Kim et al, 2010)
 
 
 
