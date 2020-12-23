@@ -46,6 +46,7 @@
 \pagenumbering{arabic}	
 	
 \section{Introduction}
+\begin{center}
 
 The research we are conducting is about firmware security mainly but we will touch on the topic of embedded devices also because the two work together. In general, most devices with firmware are relatively easy to reverse engineer by hackers who want to find vulnerabilities that they can exploit to attack different parts of the software eco-system. Therefore the goal of this research is to find a way to increase firmware security.
 
@@ -110,13 +111,15 @@ that the Secure UPX performs better than AES-encryption
 packing in terms of the code size, execution time, and power
 consumption.(M. Kim et al, 2010)
 						
-The other method is named "Defending Embedded Systems with SoftwareSymbiotes".
+The other method is named "Defending Embedded Systems with Software Symbiotes".
 A large number of embedded devices on the internet, such asrouters and VOIP phones, are typically ripe for exploitation. Little to nodefensive technology, such as AV scanners or IDS’s, are available to pro-tect these devices. We propose a host-based defense mechanism, which wecall Symbiotic Embedded Machines (SEM), that is speciﬁcally designedto inject intrusion detection functionality into the ﬁrmware of the device.A SEM or simply the Symbiote, may be injected into deployed legacyembedded systems with no disruption to the operation of the device. ASymbiote is a code structure embedded in situ into the ﬁrmware of anembedded system. The Symbiote can tightly co-exist with arbitrary hostexecutables in a mutually defensive arrangement, sharing computationalresources with its host while simultaneously protecting the host againstexploitation and unauthorized modiﬁcation. The Symbiote is stealthilyembedded in a randomized fashion within an arbitrary body of ﬁrmwareto protect itself from removal. We demonstrate the operation of a genericwhitelist-based rootkit detector Symbiote injected in situ into Cisco IOSwith negligible performance penalty and without impacting the routersfunctionality. We present the performance overhead of a Symbiote onphysical Cisco router hardware. A MIPS implementation of the Sym-biote was ported to ARM and injected into a Linux 2.4 kernel, allowingthe Symbiote to operate within Android and other mobile computingdevices. The use of Symbiotes represents a practical and eﬀective protec-tion mechanism for a wide range of devices, especially widely deployed,unprotected, legacy embedded devices.(Cui, Ang and Stolfo, Salvatore, 2011)
+\newline
+\end{center}
 
-//2. Methods against reverse engineering binaries
-//2.1: Binary Code Packing
-//2.1: Symbiotes Software - https://www.researchgate.net/publication/221427496_Defending_Embedded_Systems_with_Software_Symbiotes
-//Find more methods at - https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/5479571
+2. Methods against reverse engineering binaries
+2.1: Binary Code Packing
+2.1: Symbiotes Software - 
+Find more methods at - 
 
 Research question
 How does the attacker gain access to the code from the firmware, inside an embedded device?

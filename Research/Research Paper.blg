@@ -30,6 +30,14 @@ I was expecting a `,' or a `}'---line 9 of file report.bib
  : @book{Firmware 
  :                internals
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15 of file report.bib
+ :  authors 
+ :          = "Zhi-Kai Zhang; Michael Cheng Yi Cho; Chia-Wei Wang; Chia-Wei Hsu; Chong-Kuan Chen; Shiuhpyng Shieh",
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 20 of file report.bib
+ : author 
+ :        = "Christensson, Per. ",
+I'm skipping whatever remains of this entry
 Biblatex version: 3.13
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
@@ -74,4 +82,4 @@ warning$ -- 0
 while$ -- 64
 width$ -- 0
 write$ -- 20
-(There were 2 error messages)
+(There were 4 error messages)
