@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  24 DEC 2020 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.12)  24 FEB 2021 20:41
 entering extended mode
 **"./Research Paper.tex"
 ("Research Paper.tex"
@@ -161,10 +161,10 @@ Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
 ("D:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
-Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
 ("D:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
-Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen153
 \captionmargin@=\dimen154
 \captionwidth=\dimen155
@@ -199,7 +199,7 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count189
 )
 ("D:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 ("D:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -448,169 +448,3 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen163
 \titlewidthfirst=\dimen164
 )
-("D:\Program Files\MiKTeX\tex/generic/soul\soul.sty"
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks22
-\SOUL@lasttoken=\toks23
-\SOUL@cmds=\toks24
-\SOUL@buffer=\toks25
-\SOUL@token=\toks26
-\SOUL@spaceskip=\skip75
-\SOUL@ttwidth=\dimen165
-\SOUL@uldp=\dimen166
-\SOUL@ulht=\dimen167
-)
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count380
-\@quotereset=\count381
-
-Package biblatex Warning: Conflicting options.
-(biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 26.
-
-("Research Paper.aux")
-\openout1 = `"Research Paper.aux"'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-
-("D:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count382
-\scratchdimen=\dimen168
-\scratchbox=\box49
-\nofMPsegments=\count383
-\nofMParguments=\count384
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count385
-\MPscratchDim=\dimen169
-\MPnumerator=\count386
-\makeMPintoPDFobject=\count387
-\everyMPtoPDFconversion=\toks28
-) ("D:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-)
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
-* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=397.485pt
-* \textheight=578.15999pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
-* \topmargin=-0.86499pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-("D:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
-File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout3 = `Research_Paper-blx.bib'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file '"Research Paper".bbl' found.
-
-("Research Paper.bbl")
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
- [1
-
-{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [1] ("Research 
-Paper.toc"
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
-)
-\tf@toc=\write4
-\openout4 = `"Research Paper.toc"'.
-
- [3
-
-] ("Research Paper.lof")
-\tf@lof=\write5
-\openout5 = `"Research Paper.lof"'.
-
- [4
-
-] [1]
-[2] [3] [4] [5] ("Research Paper.aux")
-Package logreq Info: Writing requests to '"Research Paper".run.xml'.
-\openout1 = `"Research Paper.run.xml"'.
-
- ) 
-Here is how much of TeX's memory you used:
- 12064 strings out of 480790
- 220223 string characters out of 2907055
- 782979 words of memory out of 3000000
- 27953 multiletter control sequences out of 15000+200000
- 538422 words of font info for 44 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 39i,6n,43p,1746b,1659s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1000.pk><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/
-Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr17.pfb><D:/Program Files/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb>
-Output written on "Research Paper.pdf" (9 pages, 87946 bytes).
-PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
